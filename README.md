@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Joel!
 
+- 🔭 I’m currently working on a visual impairement aide
+- 🌱 I’m currently learning ReactJS and Three.js to build my website
+- ⚡ Fun fact: I'm the the singer and one of the drummers for a band!
 <!--
 **SyphxN/SyphxN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
